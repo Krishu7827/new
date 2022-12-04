@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    
+    background-color: #e4f5f9;
+    background-image:url(https://img.freepik.com/free-photo/pink-gift-box-with-gold-ribbon-heart-romantic-banner-love-concept-pink-background-3d-rendering_56104-1427.jpg?w=1380&t=st=1670127249~exp=1670127849~hmac=b0f67b4d8595486f3f906dc96f710265164e46d7df58624d32e61b8d7b0b5345) ;
+    
+
+}
+h1{
+    color: white;
+    font-size: 562.5%;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align:center;
+}
+h3{
+    color:whitesmoke;
+    margin-bottom: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 200%;
+    font-weight: 600;
+}
+.head{
+    padding: 10px;
+}
+
+.photo{
+        
+        border-radius: 100px;
+    }
+h2{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    color: white;
+    font-size: 300.5%;
+}
+
+/**slide**/
+.photo{
+    margin: 50px;
+    width: 50%;
+    
+}
+.second{
+    width: 60%;
+    border-radius: 1000px;
+    margin-bottom: 20px;
+    
+}
